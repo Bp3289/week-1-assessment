@@ -4,7 +4,7 @@ body {
 
 .brand {
 	float: right;
-	margin-top: 100px;
+	margin-top: 400px;
 
 }
 
@@ -28,9 +28,9 @@ body {
 }
 
 .luke {
-	text-align: right;
 	margin-right: 100px;
 	padding: 40px;
+
 }
 
 ul {
