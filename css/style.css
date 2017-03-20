@@ -6,6 +6,7 @@ body {
 	background-image: url(../images/frame.png);
 	background-repeat: repeat-y;
 	background-size: cover;
+	margin-left: 200px;
 }
 
 .han {
@@ -16,4 +17,13 @@ body {
 .luke {
 	text-align: right;
 	margin-right: 100px;
+}
+
+ul {
+	display: inline;
+}
+
+li {
+	float: left;
+	padding: 30px;
 }
