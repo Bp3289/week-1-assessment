@@ -1,3 +1,19 @@
 body {
 	background-image: url(../images/bgtile.png);
 }
+
+.leia {
+	background-image: url(../images/frame.png);
+	background-repeat: repeat-y;
+	background-size: cover;
+}
+
+.han {
+	margin-left: 600px;
+	margin-right: 200px;
+}
+
+.luke {
+	text-align: right;
+	margin-right: 100px;
+}
