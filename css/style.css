@@ -2,6 +2,12 @@ body {
 	background-image: url(../images/bgtile.png);
 }
 
+.brand {
+	float: right;
+	margin-top: 100px;
+
+}
+
 .leia {
 	background-image: url(../images/frame.png);
 	background-repeat: repeat-y;
@@ -10,13 +16,21 @@ body {
 }
 
 .han {
-	margin-left: 600px;
-	margin-right: 200px;
+
+	
+}
+
+.han p {
+
+	padding: 40px;
+
+
 }
 
 .luke {
 	text-align: right;
 	margin-right: 100px;
+	padding: 40px;
 }
 
 ul {
