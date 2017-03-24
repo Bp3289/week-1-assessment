@@ -10,6 +10,7 @@
 	background-repeat: repeat-x;
 	background-size: cover;
 	background-image: url(../images/bgtile.png);
+	position: absolute;
 }
 
 .brand {
@@ -24,12 +25,15 @@
 	background-size: cover;
 	width: 500px;
 	margin-right: 100px;
+	position: relative;
+
 
 }
 
 .phone {
 	float: left;
 	margin-left: 100px;
+	position: relative;
 
 
 }
