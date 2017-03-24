@@ -14,8 +14,13 @@
 }
 
 .brand {
-	float:right;
 	position: relative;
+	
+}
+
+.login {
+	position: relative;
+	float: right;
 }
 
 
