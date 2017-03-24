@@ -45,3 +45,8 @@ footer {
 	display: block;
 	
 }
+
+.list li {
+	display: inline;
+	position: relative;
+}
