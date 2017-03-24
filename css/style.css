@@ -49,4 +49,5 @@ footer {
 .list li {
 	display: inline;
 	position: relative;
+	margin: 30px;
 }
