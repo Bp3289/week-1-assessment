@@ -15,12 +15,14 @@
 
 .brand {
 	position: relative;
-	
+	float: right;
+	margin: 100px 100px 0 0;
+
 }
 
-.login {
-	position: relative;
-	float: right;
+#login {
+	color: grey;
+	background-color: blue;
 }
 
 
@@ -32,7 +34,7 @@
 	width: 500px;
 	margin-right: 100px;
 	position: relative;
-	margin-top: 100px;
+	
 
 
 }
