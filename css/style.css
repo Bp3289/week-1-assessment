@@ -35,8 +35,6 @@
 	margin-right: 100px;
 	position: relative;
 	
-
-
 }
 
 .phone {
@@ -44,8 +42,6 @@
 	margin-left: 200px;
 	position: relative;
 	margin-top: 100px ;
-
-
 }
 
 .luke {
@@ -56,6 +52,11 @@
 }
 
 .leia {
+	padding-left: 30px;
+}
+
+.android {
+	margin-top: 60px;
 	padding-left: 30px;
 }
 
