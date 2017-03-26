@@ -1,7 +1,7 @@
 
 
 .content {
-	margin: 40px 40px 40px 40px;
+	margin: 0 auto;
 }
 
 #background {
@@ -16,7 +16,7 @@
 .brand {
 	position: relative;
 	float: right;
-	margin: 100px 100px 0 0;
+	margin: 100px 200px 0 0;
 
 }
 
@@ -28,6 +28,11 @@
 	content: 10px;
 }
 
+.han {
+	display: inline;
+	padding-left: 10px;
+}
+
 
 .bottom{
 	float: right;
@@ -35,7 +40,7 @@
 	background-repeat: repeat-y;
 	background-size: cover;
 	width: 500px;
-	margin-right: 100px;
+	margin-right: 200px;
 	position: relative;
 	
 }
@@ -81,7 +86,7 @@ footer {
 	display: inline;
 	position: relative;
 	margin: 10px;
-	
+
 }
 
 .copyright {
