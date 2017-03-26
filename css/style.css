@@ -79,6 +79,7 @@ footer {
 	display: block;
 	text-align: center;
 	padding: 50px;
+	margin-left: 200px;
 	
 }
 
@@ -94,5 +95,5 @@ footer {
 	color: grey;
 	float: right;
 	padding-bottom: 50px;
-	padding-right: 200px;
+	padding-right: 400px;
 }
