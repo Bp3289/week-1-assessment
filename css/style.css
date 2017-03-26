@@ -82,6 +82,7 @@ footer {
 	
 }
 
+
 .list li {
 	display: inline;
 	position: relative;
@@ -93,5 +94,5 @@ footer {
 	color: grey;
 	float: right;
 	padding-bottom: 50px;
-	padding-right: 300px;
+	padding-right: 200px;
 }
