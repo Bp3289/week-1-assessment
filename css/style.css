@@ -1,7 +1,7 @@
 
 
-#content {
-	
+.content {
+	margin: 40px 40px 40px 40px;
 }
 
 #background {
@@ -21,10 +21,11 @@
 }
 
 #login {
-	color: grey;
-	background-color: blue;
+	color: white;
+	background-color: #5588CA;
 	margin: 30px 30px;
 	float: right;
+	content: 10px;
 }
 
 
@@ -49,12 +50,17 @@
 .luke {
 	margin-right: 80px;
 	padding-left: 30px;
-	color: rgb(2, 5, 207);
-	
+	color: #090484;
+	margin-bottom: 0px;
 }
 
 .leia {
-	padding-left: 30px;
+	padding: 30px;
+	margin: 0px;
+}
+
+p {
+	margin-top: 0px;
 }
 
 .android {
@@ -74,5 +80,13 @@ footer {
 .list li {
 	display: inline;
 	position: relative;
-	margin: 30px;
+	margin: 10px;
+	
+}
+
+.copyright {
+	color: grey;
+	float: right;
+	padding-bottom: 50px;
+	padding-right: 300px;
 }
