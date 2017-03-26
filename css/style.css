@@ -20,12 +20,16 @@
 
 }
 
+.insta {
+	margin-right: 10px;
+}
+
 #login {
 	color: white;
 	background-color: #5588CA;
-	margin: 30px 30px;
+	margin: 30px 0px 0 40px;
 	float: right;
-	content: 10px;
+
 }
 
 .han {
